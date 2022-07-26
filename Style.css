@@ -1,0 +1,15 @@
+.slide{
+    background-color:rgba(254,234,233,255);
+}
+#Subscribe{
+    background-color:rgba(254,234,233,255);
+
+}
+
+#button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 25px;
+    color: white;
+    border: 0ch;
+   
+}
