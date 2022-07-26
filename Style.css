@@ -13,3 +13,6 @@
     border: 0ch;
    
 }
+form #button:hover{
+    color: black;
+}
